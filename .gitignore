@@ -1,0 +1,19 @@
+*.class
+
+# Package Files #
+*.jar
+!gradle-wrapper.jar
+gradle.properties
+*.war
+*.ear
+
+.gradle/
+build/
+out/
+
+# IDE Project files #
+*.iml
+*.ipr
+*.iws
+.idea/
+/bin/

@@ -1,0 +1,6 @@
+rootProject.name = 'microservices-rabbitmq-example'
+
+include 'accounts'
+
+include 'authorization'
+
